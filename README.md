@@ -35,8 +35,8 @@ The system follows a directed graph architecture using LangGraph:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ai-research-system.git
-cd ai-research-system
+git clone https://github.com/VivekkumarChauhan/AstraMind.git
+cd AstraMind
 ```
 
 2. Create and activate a virtual environment:
@@ -162,4 +162,4 @@ The workflow manages the interaction between agents:
 
 ## About the Developer
 
-[Your Name] - Passionate about AI, natural language processing, and building systems that can effectively gather and synthesize information. Experienced in Python programming with a strong background in machine learning and AI frameworks.
+[Vivekkumar Chauhan] - Passionate about AI, natural language processing, and building systems that can effectively gather and synthesize information. Experienced in Python programming with a strong background in machine learning and AI frameworks.
