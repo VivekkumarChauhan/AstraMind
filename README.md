@@ -162,4 +162,4 @@ The workflow manages the interaction between agents:
 
 ## About the Developer
 
-[Vivekkumar Chauhan] - Passionate about AI, natural language processing, and building systems that can effectively gather and synthesize information. Experienced in Python programming with a strong background in machine learning and AI frameworks.
+Vivekkumar Chauhan - Passionate about AI, natural language processing, and building systems that can effectively gather and synthesize information. Experienced in Python programming with a strong background in machine learning and AI frameworks.
