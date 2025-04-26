@@ -1,0 +1,118 @@
+{
+    "queries": [
+      {
+        "id": "q1",
+        "query": "What are the latest advancements in quantum computing?",
+        "sub_queries": [
+          "quantum computing recent breakthroughs",
+          "quantum supremacy experiments 2024",
+          "quantum computing practical applications",
+          "quantum error correction advances"
+        ],
+        "description": "Research query about recent breakthroughs in quantum computing technology, experiments demonstrating quantum supremacy, and potential real-world applications."
+      },
+      {
+        "id": "q2",
+        "query": "How is artificial intelligence being used in healthcare?",
+        "sub_queries": [
+          "AI medical diagnosis applications",
+          "machine learning in drug discovery",
+          "AI healthcare patient care improvements",
+          "ethical concerns AI in medicine"
+        ],
+        "description": "Research query about current applications of AI in medical diagnostics, treatment planning, drug discovery, and related ethical considerations."
+      },
+      {
+        "id": "q3",
+        "query": "What are the environmental impacts of electric vehicles?",
+        "sub_queries": [
+          "electric vehicles carbon footprint",
+          "EV battery production environmental impact",
+          "electric vs gas vehicles lifecycle comparison",
+          "EV charging infrastructure sustainability"
+        ],
+        "description": "Research query about the environmental benefits and drawbacks of electric vehicles compared to conventional vehicles throughout their lifecycle."
+      },
+      {
+        "id": "q4",
+        "query": "What are effective strategies for mitigating climate change?",
+        "sub_queries": [
+          "most effective carbon reduction technologies",
+          "renewable energy transition strategies",
+          "climate policy international agreements",
+          "carbon capture advancements"
+        ],
+        "description": "Research query about practical approaches to reducing greenhouse gas emissions, implementing renewable energy, and technological solutions to address global warming."
+      },
+      {
+        "id": "q5",
+        "query": "How has remote work affected productivity and work-life balance?",
+        "sub_queries": [
+          "remote work productivity statistics",
+          "work from home mental health impacts",
+          "hybrid work models effectiveness",
+          "remote work technology tools"
+        ],
+        "description": "Research query about the impacts of remote work arrangements on employee productivity, mental health, collaboration, and overall work-life balance."
+      },
+      {
+        "id": "q6",
+        "query": "What are the ethical considerations of gene editing technologies?",
+        "sub_queries": [
+          "CRISPR ethical concerns",
+          "gene editing medical applications",
+          "gene editing regulations worldwide",
+          "germline editing controversy"
+        ],
+        "description": "Research query about ethical debates surrounding CRISPR and other gene editing technologies, including medical applications, regulations, and social implications."
+      },
+      {
+        "id": "q7",
+        "query": "What advances have been made in treating neurodegenerative diseases?",
+        "sub_queries": [
+          "Alzheimer's disease treatment breakthroughs",
+          "Parkinson's disease new therapies",
+          "ALS research advances",
+          "neurodegenerative disease early detection"
+        ],
+        "description": "Research query about recent progress in treating conditions like Alzheimer's, Parkinson's, and ALS, including new therapies, diagnostic tools, and prevention strategies."
+      },
+      {
+        "id": "q8",
+        "query": "How do social media algorithms influence political polarization?",
+        "sub_queries": [
+          "social media echo chambers research",
+          "recommendation algorithms politics",
+          "filter bubbles effects on discourse",
+          "social platforms misinformation spread"
+        ],
+        "description": "Research query about the role of social media algorithms and platforms in creating political echo chambers, spreading misinformation, and contributing to societal polarization."
+      },
+      {
+        "id": "q9",
+        "query": "What are the most promising sustainable building materials and techniques?",
+        "sub_queries": [
+          "carbon negative building materials",
+          "mass timber construction benefits",
+          "sustainable concrete alternatives",
+          "passive house design principles"
+        ],
+        "description": "Research query about innovative materials and methods for environmentally-friendly construction, including carbon-sequestering materials and energy-efficient building techniques."
+      },
+      {
+        "id": "q10",
+        "query": "How are cryptocurrencies and blockchain technology evolving?",
+        "sub_queries": [
+          "proof of stake vs proof of work",
+          "central bank digital currencies development",
+          "blockchain enterprise applications",
+          "crypto environmental impact solutions"
+        ],
+        "description": "Research query about recent developments in cryptocurrency technology, including consensus mechanisms, central bank initiatives, enterprise applications, and environmental considerations."
+      }
+    ],
+    "usage_instructions": {
+      "description": "This file contains example research queries that can be used to test the AI research agent system. Each query includes a unique identifier, the main query text, suggested sub-queries for more targeted research, and a description of what information is being sought.",
+      "how_to_use": "Import this file in your testing scripts or use it directly with the main.py application to evaluate the performance of the research and drafting agents. The sub-queries can be used to guide the research agent's information gathering process."
+    }
+  }
